@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f7f255d-1cea-43a5-964d-c317f11b6641" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/kthLargest/KLargest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/kthLargest/KLargestTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/kthLargest/KLargest.java" afterPath="$PROJECT_DIR$/src/kthLargest/KLargest.java" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +28,8 @@
       <file leaf-file-name="KLargest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/kthLargest/KLargest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="345">
+              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,8 +78,8 @@
         <option value="$PROJECT_DIR$/src/subsets/subsetsTest.java" />
         <option value="$PROJECT_DIR$/src/addDigits/AddDigitTest.java" />
         <option value="$PROJECT_DIR$/src/addDigits/AddDigit.java" />
-        <option value="$PROJECT_DIR$/src/kthLargest/KLargest.java" />
         <option value="$PROJECT_DIR$/src/kthLargest/KLargestTest.java" />
+        <option value="$PROJECT_DIR$/src/kthLargest/KLargest.java" />
       </list>
     </option>
   </component>
@@ -669,7 +667,7 @@
       <workItem from="1475093818583" duration="2529000" />
       <workItem from="1475103555670" duration="394000" />
       <workItem from="1475104417817" duration="72000" />
-      <workItem from="1475123482354" duration="170000" />
+      <workItem from="1475123482354" duration="334000" />
     </task>
     <servers />
   </component>
@@ -688,7 +686,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4980000" />
+    <option name="totallyTimeSpent" value="5144000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1025,8 +1023,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kthLargest/KLargest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="345">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
