@@ -25,7 +25,8 @@ public class MaxOccurrence {
                     map.put(s,map.get(s)+1);
                 }
             }
-            int high = Integer.MIN_VALUE;
+
+            int high = Integer.MIN_VALUE;   // finds max value from array
             for (int mValue:map.values()){
                 if(mValue>high){
                     high=mValue;
@@ -61,8 +62,6 @@ public class MaxOccurrence {
                 maxOccurrence.countMaxOccurrence(result);
 
             } catch (FileNotFoundException e) {
-                e.printStackTrace();
-            } catch (IOException e) {
                 e.printStackTrace();
             }
         }
