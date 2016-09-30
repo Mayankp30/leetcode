@@ -35,9 +35,6 @@ import java.util.List;
  * Created by Mayank on 9/28/16.
  */
 
-
-
-
 public class subsets {
     /**
      * Leetcode version
@@ -64,11 +61,7 @@ public class subsets {
         }
     }
 
-    /**
-     * Lintcode version
-     * @param : A set of numbers.
-     * @return: A list of lists. All valid subsets.
-     */
+
     public ArrayList<ArrayList<Integer>> subsets(ArrayList<Integer> s) {
         // write your code here
         ArrayList<ArrayList<Integer>> result = new ArrayList<ArrayList<Integer>>();
