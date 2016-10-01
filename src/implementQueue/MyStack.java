@@ -40,7 +40,7 @@ public class MyStack {
 
     public static void main(String[] args) {
         MyStack stack=new MyStack(1);
-        
+
         System.out.println(stack.isFull());
         System.out.println(stack.peek());
     }
