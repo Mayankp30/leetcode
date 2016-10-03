@@ -1,4 +1,5 @@
 package setOperations;
+import java.util.HashSet;
 import java.util.LinkedList;
 
 /**
@@ -40,11 +41,25 @@ public class unionSet {
             list.add(nums2[j++]);
         }
 
+        HashSet<Integer> set = new HashSet<>();
         for (int l: list) {
-            System.out.print(l + " ");
-
+            set.add(l);
         }
-        return null;
+
+        int[] result=new int[list.size()];
+        int value=0;
+        for (int l: set) {
+            result[value++]=l;
+        }
+
+        for (int x: set){
+            System.out.println(x);
+        }
+
+        return result;
+
+
+
     }
 
 
@@ -91,7 +106,8 @@ public class unionSet {
         int nums1[] = {1,7,8,9,10,12};
         int nums2[] = {1,9,10};
         unionSet unionSet = new unionSet();
-        unionSet.intersectionArrays(nums1,nums2);
+        unionSet.unionOfArrays(nums1,nums2);
+        //unionSet.intersectionArrays(nums1,nums2);
 
     }
 }
