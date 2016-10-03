@@ -6,7 +6,7 @@ import java.util.List;
 
 
 /**
- * Created by Mayank on 10/02/16.
+ * Created by Mayank on 10/2/16.
  */
 
 public class ThreeSum{
