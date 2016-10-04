@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f7f255d-1cea-43a5-964d-c317f11b6641" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/threeSum/ThreeSum.java" afterPath="$PROJECT_DIR$/src/threeSum/ThreeSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/threeSum/ThreeSumClosest.java" afterPath="$PROJECT_DIR$/src/threeSum/ThreeSumClosest.java" />
-    </list>
+    <list default="true" id="3f7f255d-1cea-43a5-964d-c317f11b6641" name="Default" comment="" />
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -774,7 +771,7 @@
       <workItem from="1475217243716" duration="1439000" />
       <workItem from="1475218698242" duration="2497000" />
       <workItem from="1475284460429" duration="2765000" />
-      <workItem from="1475464440431" duration="903000" />
+      <workItem from="1475464440431" duration="924000" />
     </task>
     <servers />
   </component>
@@ -793,7 +790,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13103000" />
+    <option name="totallyTimeSpent" value="13124000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
