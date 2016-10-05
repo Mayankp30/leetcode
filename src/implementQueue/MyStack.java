@@ -16,13 +16,13 @@ public class MyStack {
 
     void push(int x){
         array[++top]=x;
-    }
+    }  // add element to array and increment the top counter
     int pop(){
         return array[--top];
-    }
+    }  // remove the element and decrement the counter
     int peek(){
         return top;
-    }
+    }  // returns the element which was most recently inserted
 
     boolean isEmpty(){
         if(top==-1){
