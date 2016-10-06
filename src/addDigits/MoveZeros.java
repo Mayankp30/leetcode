@@ -42,9 +42,8 @@ public class MoveZeros {
         for (int i : array){
             System.out.print(i + " ");
         }
-        System.out.println("\n array after swapping");
+        System.out.println("\nArray after pushing all the zero’s in end");
         moveZerosInEnd(array);
-        System.out.println();
         for (int i : array){
             System.out.print(i + " ");
         }
