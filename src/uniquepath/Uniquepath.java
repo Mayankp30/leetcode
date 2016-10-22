@@ -34,7 +34,6 @@ package uniquepath;
  *
  **********************************************************************************/
 
-
 public class Uniquepath {
     /**
      * @param n, m: positive integer (1 <= n ,m <= 100)
@@ -58,4 +57,3 @@ public class Uniquepath {
         return matrix[m-1][n-1];
     }
 }
-
