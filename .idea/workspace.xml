@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f7f255d-1cea-43a5-964d-c317f11b6641" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/firstBadVersion/VersionControl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/firstBadVersion/BadVersionTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -84,12 +84,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BadVersion.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BadVersion.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/firstBadVersion/BadVersion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+            <state relative-caret-position="375">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="23" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BadVersionTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/firstBadVersion/BadVersionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,8 +122,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -166,6 +178,7 @@
         <option value="$PROJECT_DIR$/src/uniquepath/UniquepathTest.java" />
         <option value="$PROJECT_DIR$/src/firstBadVersion/VersionControl.java" />
         <option value="$PROJECT_DIR$/src/firstBadVersion/BadVersion.java" />
+        <option value="$PROJECT_DIR$/src/firstBadVersion/BadVersionTest.java" />
       </list>
     </option>
   </component>
@@ -293,11 +306,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="firstBadVersion" />
       <recent name="uniquepath" />
       <recent name="findMaximumMinimumRotatedArray" />
       <recent name="kthLargest" />
       <recent name="addDigits" />
-      <recent name="subsets" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -890,7 +903,7 @@
       <workItem from="1475796748579" duration="340000" />
       <workItem from="1475811441145" duration="458000" />
       <workItem from="1477107637975" duration="337000" />
-      <workItem from="1480365966640" duration="160000" />
+      <workItem from="1480365966640" duration="279000" />
     </task>
     <servers />
   </component>
@@ -927,7 +940,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21534000" />
+    <option name="totallyTimeSpent" value="21653000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -990,13 +1003,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/binaryTreeBFSTraversal/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/binarySearchTreeIterator/binarySearchTreeIterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1340,9 +1346,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/firstBadVersion/BadVersion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        <state relative-caret-position="375">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firstBadVersion/BadVersionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
