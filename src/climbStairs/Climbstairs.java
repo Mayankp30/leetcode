@@ -4,8 +4,6 @@ package climbStairs;
  * Created by Mayank on 12/8/16.
  */
 
-
-
 /**********************************************************************************
  *
  * You are climbing a stair case. It takes n steps to reach to the top.
@@ -14,9 +12,6 @@ package climbStairs;
  *
  *
  **********************************************************************************/
-
-
-
 public class Climbstairs {
 
     /**
