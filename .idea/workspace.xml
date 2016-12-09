@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f7f255d-1cea-43a5-964d-c317f11b6641" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/climbStairs/ClimbstairsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/climbStairs/Climbstairs.java" afterPath="$PROJECT_DIR$/src/climbStairs/Climbstairs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/climbStairs/ClimbstairsTest.java" afterPath="$PROJECT_DIR$/src/climbStairs/ClimbstairsTest.java" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,9 +42,11 @@
       <file leaf-file-name="ClimbstairsTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/climbStairs/ClimbstairsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="120">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -880,7 +881,7 @@
       <workItem from="1480365966640" duration="460000" />
       <workItem from="1480463226952" duration="618000" />
       <workItem from="1481045738122" duration="314000" />
-      <workItem from="1481258692902" duration="369000" />
+      <workItem from="1481258692902" duration="536000" />
     </task>
     <servers />
   </component>
@@ -917,7 +918,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23135000" />
+    <option name="totallyTimeSpent" value="23302000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1304,7 +1305,7 @@
         <state relative-caret-position="330">
           <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1327,9 +1328,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/climbStairs/ClimbstairsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
